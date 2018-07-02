@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlDatabaseRoot="C:\Users\clontoc\Documents\My Translated Projects\NewProject-222227.liprjf" SourceControlDatabase="C:\Users\clontoc\Documents\My Translated Projects\NewProject-222227.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="aeeae8b3-a41a-426d-9262-f06065292ec6">
+    <ProjectFile Source="Target/hackdc.flprj" Target="Target/hackdc.flprj" />
+</LingoProject>
